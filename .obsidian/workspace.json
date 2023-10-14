@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/Quick Links.md",
+                "file": "1. Exam Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Quick Links.md",
+                "file": "1. Exam Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/Quick Links.md",
+                "file": "1. Exam Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Quick Links.md"
+                "file": "1. Exam Guide.md"
               }
             }
           }
@@ -169,8 +169,8 @@
   },
   "active": "89a75d76b1e61858",
   "lastOpenFiles": [
-    "README.md",
     "resources/Quick Links.md",
+    "README.md",
     "1. Exam Guide.md",
     "resources"
   ]
