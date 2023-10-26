@@ -22,3 +22,5 @@ https://docs.google.com/document/d/13XP5Bka8fK-0_7e9eXvPwFKLiZs5k5MfrxorSkIMayc/
 https://docs.google.com/spreadsheets/d/1zIbruYr2k_kO2htdY4GxOIcTav5eoseJpJ7fJmZMLTI/edit#gid=0
 - Understanding all the services
 https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf
+- Creating Virtual Machines
+https://cloud.google.com/compute/docs/instances/create-start-instance
